@@ -1,0 +1,2 @@
+targetId,campaignId,adGroupId,state,expressionType,targetingExpression_type_1,targetingExpression_value_1,targetingExpression_type_2,targetingExpression_value_2,bid,createdAt,updatedAt
+1234567890,987654321,1122334455,enabled,manual,asinCategorySameAs,B07XJ8C8F5,asinCategorySameAs,B09RQX3W87,1.5,2023-10-10T13:45:30Z,2023-10-20T11:32:22Z
